@@ -1,2 +1,1 @@
-# Coding-Ninja
-Coding Ninja All
+in 28 Minutes
